@@ -66,13 +66,10 @@ date	DATE	Attendance date
 time	TIME	Marked time
 status	VARCHAR	Present/Absent
 face_image	BLOB/Path	Stored attendance image
+
 ⚙️ Installation & Setup
 
-Clone the repo
-
-git clone https://github.com/your-username/face-attendance-system.git
 cd face-attendance-system
-
 
 Setup Backend (Flask)
 
